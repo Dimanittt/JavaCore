@@ -1,0 +1,3 @@
+I don't even know wthat to write:(
+But I have to because I need to know
+How to work with methodFile.readAllLines
